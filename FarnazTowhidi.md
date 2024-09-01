@@ -1,4 +1,4 @@
-# Farnaz Towhidi Designer
+# Farnaz Towhidi This is our class
 <img src="./assets/Farnaz.jpeg" style="width:150px;"/>
 
 ### Projects Deliverables
