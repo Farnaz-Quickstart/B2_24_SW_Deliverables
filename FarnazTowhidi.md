@@ -1,4 +1,4 @@
-# Farnaz Towhidi This is Quick class
+# Farnaz Towhidi 
 <img src="./assets/Farnaz.jpeg" style="width:150px;"/>
 
 ### Projects Deliverables
