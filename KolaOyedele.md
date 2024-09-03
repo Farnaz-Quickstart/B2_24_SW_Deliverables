@@ -1,5 +1,5 @@
 # Farnaz Towhidi 
-<img src="./assets/Farnaz.jpeg" style="width:150px;"/>
+<img src="../Images/Portrait2.jpg" style="width:150px;"/>
 
 ### Projects Deliverables
 - **Project 1:** [Insert Link Here]
@@ -17,3 +17,6 @@
 
 
 
+
+
+[def]: ./BootCamp/Bootcamp/Images/Portrait
