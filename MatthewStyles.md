@@ -1,4 +1,4 @@
-Matt Styles
+# Matt Styles 
 <img src="./assets/Matt Styles.jpg" style="width:150px;"/>
 
 ### Projects Deliverables
