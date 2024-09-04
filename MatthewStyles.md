@@ -1,5 +1,5 @@
 # Matt Styles
-# This is my dog Remy
+This is my dog Remy
 <img src="./assets/Matt Styles.jpg" style="width:150px;"/>
 
 ### Projects Deliverables
