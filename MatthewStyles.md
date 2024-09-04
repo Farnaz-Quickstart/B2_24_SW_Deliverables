@@ -1,5 +1,5 @@
-# Farnaz Towhidi 
-<img src="./assets/Farnaz.jpeg" style="width:150px;"/>
+Matt Styles
+<img src="./assets/Matt Styles.jpg" style="width:150px;"/>
 
 ### Projects Deliverables
 - **Project 1:** [Insert Link Here]
