@@ -1,5 +1,8 @@
-# Farnaz Towhidi 
-<img src="./assets/Farnaz.jpeg" style="width:150px;"/>
+# Matt Styles
+This is my dog Remy
+<img src="./assets/Matt Styles.jpg" style="width:150px;"/>
+
+He is an old man and I love him very much 
 
 ### Projects Deliverables
 - **Project 1:** [Insert Link Here]
