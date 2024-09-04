@@ -1,4 +1,4 @@
-# Farnaz Towhidi is a fullstact developer in feature A group
+# group A: Farnaz Towhidi
 # Farnaz is a designer
 <img src="./assets/Farnaz.jpeg" style="width:150px;"/>
 
