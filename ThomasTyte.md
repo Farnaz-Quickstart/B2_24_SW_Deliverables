@@ -1,5 +1,5 @@
 # Thomas Tyte
-<img src="./assets/thomastyte.jpg" style="width:150px;"/>
+<img src="./assets/thomastyte.jpgit g" style="width:150px;"/>
 
 ### Projects Deliverables
 - **Project 1:** [Insert Link Here]
