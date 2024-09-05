@@ -1,4 +1,4 @@
-# Farnaz Towhidi is a designer
+# Farnaz Towhidi is a designer in groub B
 <img src="./assets/Farnaz.jpeg" style="width:150px;"/>
 
 ### Projects Deliverables
