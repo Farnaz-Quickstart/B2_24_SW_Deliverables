@@ -4,7 +4,6 @@ This is my dog Remy
 
 He is an old man and I love him very much 
 
-This is a test
 
 ### Projects Deliverables
 - **Project 1:** [Insert Link Here]
