@@ -1,6 +1,6 @@
-# Farnaz Towhidi 
-<img src="./assets/Farnaz.jpeg" style="width:150px;"/>
-
+# Thomas Tyte
+<img src="./assets/thomastyte.jpg" style="width:150px;"/>
+git 
 ### Projects Deliverables
 - **Project 1:** [Insert Link Here]
 - **Project 2:** [Insert Link Here]
