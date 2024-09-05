@@ -1,5 +1,4 @@
-# Farnaz Towhidi
-# Farnaz is a designer
+# Farnaz Towhidi is a designer
 <img src="./assets/Farnaz.jpeg" style="width:150px;"/>
 
 ### Projects Deliverables
