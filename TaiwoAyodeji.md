@@ -1,6 +1,6 @@
 # Taiwo Ayodeji
 
-<img src="./assets/Farnaz.jpeg" style="width:150px;"/>
+<img src="./assets/Taiwo Ayodeji.png" style="width:150px;"/>
 
 ### Projects Deliverables
 
