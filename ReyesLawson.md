@@ -1,5 +1,5 @@
 # Reyes Lawson
-<img src="./assets/Farnaz.jpeg" style="width:150px;"/>
+<img src="./assets/reyesprofile.jpg" style="width:150px;"/>
 
 ### Projects Deliverables
 - **Project 1:** [Insert Link Here]
