@@ -1,6 +1,6 @@
 # Thomas Tyte
-<img src="./assets/thomastyte.jpgit g" style="width:150px;"/>
-
+<img src="./assets/thomastyte.jpg" style="width:150px;"/>
+git 
 ### Projects Deliverables
 - **Project 1:** [Insert Link Here]
 - **Project 2:** [Insert Link Here]
