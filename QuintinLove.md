@@ -1,4 +1,6 @@
-# Farnaz Towhidi 
+# Quintin Love
+
+
 <img src="./assets/Farnaz.jpeg" style="width:150px;"/>
 
 ### Projects Deliverables
