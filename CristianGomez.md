@@ -1,5 +1,5 @@
 # Cristian Gomez
-<img src="#" style="width:150px;"/>
+<img src="/assets/cristian.JPG" style="width:150px;"/>
 
 ### Projects Deliverables
 - **Project 1:** [Insert Link Here]
