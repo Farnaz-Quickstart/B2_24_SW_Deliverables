@@ -1,4 +1,4 @@
-# Farnaz Towhidi 
+# Kyra Smith 
 <img src="./assets/Farnaz.jpeg" style="width:150px;"/>
 
 ### Projects Deliverables
