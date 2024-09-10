@@ -9,7 +9,7 @@
 
 ### Assignments Deliverables
 - **Assignment 1:** [https://github.com/Lafayette-del/Assignment_HTMLCSS]
-- **Assignment 2:** [Insert Link Here]
+- **Assignment 2:** [https://github.com/Lafayette-del/Assignment_Bootstrap]
 - **Assignment 3:** [Insert Link Here]
 
 
