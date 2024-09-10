@@ -8,7 +8,7 @@
 - **Project 4:** [Insert Link Here]
 
 ### Assignments Deliverables
-- **Assignment 1:** [Insert Link Here]
+- **Assignment 1:** [https://github.com/lydjarvis/HtmlCSS.git]
 - **Assignment 2:** [Insert Link Here]
 
 
