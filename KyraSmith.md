@@ -9,7 +9,7 @@
 
 ### Assignments Deliverables
 - **Assignment 1:** [(https://github.com/Smithkyra93/Assignment_HTMLCSS)]
-- **Assignment 2:** [Insert Link Here]
+- **Assignment 2:** [(https://github.com/Smithkyra93/Assignment_Bootstrap)]
 
 
 
