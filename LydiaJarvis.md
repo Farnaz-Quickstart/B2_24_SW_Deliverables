@@ -9,7 +9,7 @@
 
 ### Assignments Deliverables
 - **Assignment 1:** [https://github.com/lydjarvis/HtmlCSS.git]
-- **Assignment 2:** [https://github.com/lydjarvis/Bootstrap2.git]/[http://127.0.0.1:5500/]
+- **Assignment 2:** [https://github.com/lydjarvis/Bootstrap2.git]
 
 
 
