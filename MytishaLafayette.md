@@ -1,5 +1,5 @@
-# Farnaz Towhidi This is Quick class hi
-<img src="./assets/Farnaz.jpeg" style="width:150px;"/>
+# MYTISHA LAFAYETTE
+<img src="./assets/" style="width:150px;"/>
 
 ### Projects Deliverables
 - **Project 1:** [Insert Link Here]
@@ -8,8 +8,8 @@
 - **Project 4:** [Insert Link Here]
 
 ### Assignments Deliverables
-- **Assignment 1:** [Insert Link Here]
-- **Assignment 2:** [Insert Link Here]
+- **Assignment 1:** [https://github.com/Lafayette-del/Assignment_HTMLCSS]
+- **Assignment 2:** [https://github.com/Lafayette-del/Assignment_Bootstrap]
 - **Assignment 3:** [Insert Link Here]
 
 

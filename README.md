@@ -4,6 +4,6 @@
 # QuickStart Software 24 Deliverables
 
 Welcome to the QuickStart Software 24 student homework repository.
-This is the place that we are going to monitor the completion of your deliverables and projects.
+This is the place that we are going to monitor the completion of your deliverables and projects. Please update your assignment and project links as we going through the process.
 
 
