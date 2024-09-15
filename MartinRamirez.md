@@ -1,5 +1,5 @@
 # Martin Ramirez
-<img src="./assets/Farnaz.jpeg" style="width:150px;"/>
+<img src="./assets/MartinR.jpeg" style="width:150px;"/>
 
 ### Projects Deliverables
 - **Project 1:** [Insert Link Here]cke
