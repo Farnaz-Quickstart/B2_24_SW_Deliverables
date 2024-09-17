@@ -1,5 +1,5 @@
 # Carolyn Nice 
-<img src="./assets/Farnaz.jpeg" style="width:150px;"/>
+<image src="./carolynNice"
 
 ### Projects Deliverables
 - **Project 1:** [Insert Link Here]
