@@ -2,11 +2,7 @@
 <img src="./assets/Imagines/Carolyn Nice.jpg" width:150px;
 
 ### Projects Deliverables
-<<<<<<< HEAD
 - **Project 1:** [https://github.com/MrsSeeNice/Bootstrap]
-=======
-- **Project 1:** [(https://github.com/MrsSeeNice/Bootstrap)]
->>>>>>> a6c5207731e011371958c3b7b8f90cd988e1530d
 - **Project 2:** [Insert Link Here]
 - **Project 3:** [Insert Link Here]
 - **Project 4:** [Insert Link Here]
