@@ -1,5 +1,5 @@
 # Carolyn Nice 
-<img src="./assets/carolynnice.jpeg" width:150px;
+<img src="./assets/Imagines/Carolyn Nice.jpg" width:150px;
 
 ### Projects Deliverables
 <<<<<<< HEAD
