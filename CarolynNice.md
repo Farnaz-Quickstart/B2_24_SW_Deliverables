@@ -1,5 +1,5 @@
 # Carolyn Nice 
-<img src="./assets/Imagines/Carolyn Nice.jpg" width:150px;
+<img src="./assets/CarolynNice.jpg" style="width:150px;"/>
 
 ### Projects Deliverables
 - **Project 1:** [https://github.com/MrsSeeNice/Bootstrap]
