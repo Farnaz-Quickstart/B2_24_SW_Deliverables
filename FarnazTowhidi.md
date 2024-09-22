@@ -1,4 +1,5 @@
 # Farnaz Towhidi 
+<img src="./assets/FarnazTowhidi.jpeg" style="width:180px"/>
 
 ### Projects Deliverables
 
@@ -9,6 +10,6 @@
 
 ### Assignments Deliverables
 
-- **Assignment 1:** [[HTML Assignment](./Assignments/Assignment_Html.docx)]
-- **Assignment 2:** [Bootstrap Assignment](./Assignments/Assignment_Bootstrap.docx)
+- **Assignment 1:** [HTML Assignment](./Assignments/Assignment_Html.pdf)
+- **Assignment 2:** [Bootstrap Assignment](./Assignments/Assignment_Html.pdf)
 - **Assignment 3:** [Insert Link Here]
