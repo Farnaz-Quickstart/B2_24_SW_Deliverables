@@ -11,7 +11,7 @@
 
 ### Assignments Deliverables
 - **Assignment 1:** https://github.com/Qlove662/HTML_CSS.git
-- **Assignment 2:** [Insert Link Here]
+- **Assignment 2:** (https://github.com/Qlove662/Bootstrap.git)
 
 
 
