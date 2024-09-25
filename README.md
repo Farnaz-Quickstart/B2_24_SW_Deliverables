@@ -18,14 +18,14 @@ This will create a local copy of the project on your system.
 <img src="./assets/git1.png" /><br>
 
 ### 2.Navigate to Your Assigned File
-Open your terminal or file explorer and navigate to the folder containing the cloned project.
-Inside the project directory, locate your assigned .md file (Markdown file) for submitting your deliverable.
+- Open your terminal or file explorer and navigate to the folder containing the cloned project.
+- Inside the project directory, locate your assigned .md file (Markdown file) for submitting your deliverable.
 
 
 ### 3. Add Your Project Link
-Open your .md file in a text editor (e.g., Visual Studio Code, Sublime Text).
-Copy the URL of your deliverable (e.g., a GitHub repository link).
-Paste the URL in the appropriate section of your .md file, where your name or ID is listed.
+- Open your .md file in Visual Studio Code.
+- Copy the URL of your assignment or project GitHub repository link.
+- Paste the URL in the appropriate section of your .md file, where your name or ID is listed.
 
 <img src="./assets/git2.png" /><br>
 
