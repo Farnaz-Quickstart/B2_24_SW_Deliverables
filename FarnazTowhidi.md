@@ -12,4 +12,4 @@
 
 - **Assignment 1:** [HTML Assignment](./Assignments/Assignment_Html.pdf)
 - **Assignment 2:** [Bootstrap Assignment](./Assignments/Assignment_Html.pdf)
-- **Assignment 3:** [Insert Link Here]
+- **Assignment 3:** [JavaScript Assignment](./Assignments/Assignment_Javascript_datatype.pdf)
