@@ -2,7 +2,7 @@
 
 
 ### Projects Deliverables
-- **Project 1:** [Project 1](https://github.com/JespeyW26/first-project)
+- **Project 1:** [https://github.com/JespeyW26/first-project]
 - **Project 2:** [Insert Link Here]
 - **Project 3:** [Insert Link Here]
 - **Project 4:** [Insert Link Here]
