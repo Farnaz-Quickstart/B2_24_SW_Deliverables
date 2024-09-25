@@ -8,7 +8,7 @@
 - **Project 4:** [Insert Link Here]
 
 ### Assignments Deliverables
-- **Assignment 1:** [(https://github.com/MrsSeeNice/Assignment-1)]
+- **Assignment 1:** [https://github.com/MrsSeeNice/Assignment-1]
 - **Assignment 2:** [Insert Link Here]
 
 
