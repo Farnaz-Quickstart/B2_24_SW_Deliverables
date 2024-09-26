@@ -1,5 +1,5 @@
-# Farnaz Towhidi 
-<img src="./assets/Farnaz.jpeg" style="width:150px;"/>
+# Victor Delgado
+
 
 ### Projects Deliverables
 - **Project 1:** [https://github.com/Vic5295/Project_1]
