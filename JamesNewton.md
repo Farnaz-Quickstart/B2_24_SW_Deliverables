@@ -1,4 +1,4 @@
-# Farnaz Towhidi 
+# James Newton Jr.
 <img src="./assets/Farnaz.jpeg" style="width:150px;"/>
 
 ### Projects Deliverables
