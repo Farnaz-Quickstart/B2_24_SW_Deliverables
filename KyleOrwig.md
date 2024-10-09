@@ -1,5 +1,5 @@
 # Kyle Orwig
-<img src="./assets/KyleOrwig.JPEG/" style="width:150px;"/>
+<img src="./assets/KyleOrwig.JPEG" style="width:150px;"/>
 
 ### Projects Deliverables
 - **Project 1:** [https://github.com/kaywig15/Project1]

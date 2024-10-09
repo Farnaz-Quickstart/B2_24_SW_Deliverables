@@ -1,4 +1,4 @@
-# MYTISHA LAFAYETTE
+s# MYTISHA LAFAYETTE
 <img src="./assets/" style="width:150px;"/>
 
 ### Projects Deliverables
