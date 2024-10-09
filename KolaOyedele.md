@@ -1,5 +1,4 @@
 # Kola Oyedele 
-<img src="../Images/Portrait2.jpg" style="width:150px;"/>
 
 ### Projects Deliverables
 - **Project 1:** [https://github.com/kolinzo1/CaringHeart]
