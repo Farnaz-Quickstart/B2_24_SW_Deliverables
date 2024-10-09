@@ -1,4 +1,4 @@
-s# MYTISHA LAFAYETTE
+# MYTISHA LAFAYETTE
 
 ### Projects Deliverables
 - **Project 1:** [https://github.com/Lafayette-del/Project_1.git]
