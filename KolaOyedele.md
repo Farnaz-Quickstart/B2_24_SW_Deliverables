@@ -1,5 +1,4 @@
 # Kola Oyedele 
-<img src="../Images/Portrait2.jpg" style="width:150px;"/>
 
 ### Projects Deliverables
 - **Project 1:** [https://github.com/kolinzo1/CaringHeart]
@@ -9,7 +8,9 @@
 
 ### Assignments Deliverables
 - **Assignment 1:** [https://github.com/kolinzo1/HTML_CSS]
-- **Assignment 2:** [Insert Link Here]
+- **Assignment 2:** [https://github.com/kolinzo1/Assignments/tree/main/Assignment1_Javascript_functions]
+- **Assignment 3:** [https://github.com/kolinzo1/Assignments/tree/main/Assinment_Javascrip_multipication]
+
 
 
 

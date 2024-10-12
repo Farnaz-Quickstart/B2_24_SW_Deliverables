@@ -1,5 +1,4 @@
 # MYTISHA LAFAYETTE
-<img src="./assets/" style="width:150px;"/>
 
 ### Projects Deliverables
 - **Project 1:** [https://github.com/Lafayette-del/Project_1.git]

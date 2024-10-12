@@ -13,3 +13,4 @@
 
 - **Assignment 1:** [https://github.com/Taiwoayodeji/HTML_CSS.git]
 - **Assignment 2:** [https://github.com/Taiwoayodeji/Bootstrap.git]
+- **Assignment 3:** [https://github.com/Taiwoayodeji/Assignments.git]
