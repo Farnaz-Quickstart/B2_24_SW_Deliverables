@@ -9,7 +9,7 @@
 
 ### Assignments Deliverables
 - **Assignment 1:** [https://github.com/ReyesLawson/About-me-project]
-- **Assignment 2:** [Insert Link Here]
+- **Assignment 2:** [https://github.com/ReyesLawson/Assignments.git]
 
 
 
