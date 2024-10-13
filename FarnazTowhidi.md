@@ -8,8 +8,14 @@
 - **Project 3:** [Insert Link Here]
 - **Project 4:** [Insert Link Here]
 
-### Assignments Deliverables
+### Assignments 
+- **Assignment 1:** [HTML pages with nabbar](./Assignments/Assignment_Html.pdf)
+- **Assignment 2:** [Bootstrap](./Assignments/Assignment_Bootstrap.pdf)
+- **Assignment 3:** [JavaScript: Simple calculaltor](./Assignments/Assinment_Javascrip2_function.pdf)
+- **Assignment 4:** [JavaScript: Multipication table](./Assignments/Assinment_Javascrip_multipication.pdf)
 
-- **Assignment 1:** [HTML Assignment](./Assignments/Assignment_Html.pdf)
-- **Assignment 2:** [Bootstrap Assignment](./Assignments/Assignment_Html.pdf)
-- **Assignment 3:** [JavaScript Assignment](./Assignments/Assinment_Javascrip2_function.pdf)
+### Assignments Solutions
+- **Assignment 3 solution:** [JavaScript: Simple calculaltor](https://github.com/Farnaz-Quickstart/B2_24_SW_Assignments/tree/main/javascript_function_calculator)
+- **Assignment 3 solution:** [JavaScript: Multipication table](...)
+
+
