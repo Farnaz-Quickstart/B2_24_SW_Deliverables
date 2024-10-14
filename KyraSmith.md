@@ -1,5 +1,4 @@
 # Kyra Smith 
-<img src="./assets/Farnaz.jpeg" style="width:150px;"/>
 
 ### Projects Deliverables
 - **Project 1:** [https://github.com/Smithkyra93/Project1]
