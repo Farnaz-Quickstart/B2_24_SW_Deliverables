@@ -13,4 +13,5 @@
 
 - **Assignment 1:** [https://github.com/Taiwoayodeji/HTML_CSS.git]
 - **Assignment 2:** [https://github.com/Taiwoayodeji/Bootstrap.git]
-- **Assignment 3:** [https://github.com/Taiwoayodeji/Assignments.git]
+- **Assignment 3:** [https://github.com/Taiwoayodeji/Assignments/tree/main/Assignment1_Javascript_functions]
+- **Assignment 4:** [https://github.com/Taiwoayodeji/Assignments/tree/main/Assignment2_Javascript_multipication]
