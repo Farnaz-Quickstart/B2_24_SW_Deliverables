@@ -12,4 +12,4 @@
 ### Assignments Deliverables
 
 - **Assignment 1:** [https://github.com/kaywig15/Assignments]
-- **Assignment 2:** [Insert Link Here]
+- **Assignment 2:** [[Insert Link Here](https://github.com/kaywig15/Assignments/tree/main/Assignment2_Multiplication_table)]
