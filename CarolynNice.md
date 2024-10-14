@@ -8,8 +8,9 @@
 - **Project 4:** [Insert Link Here]
 
 ### Assignments Deliverables
-- **Assignment 1:** [https://github.com/MrsSeeNice/Assignment-1]
-- **Assignment 2:** [Insert Link Here]
+- **Assignment 1:** [Assignment1_Javascript_functions]
+- **Assignment 2:** [Assignment2_Javascript_multiplication]
+- **Assignement 3** [Assignment3_Javascript_multiplication-table-with-conditionals]
 
 
 
