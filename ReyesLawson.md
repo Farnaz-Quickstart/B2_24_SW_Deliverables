@@ -9,9 +9,9 @@
 
 ### Assignments Deliverables
 - **Assignment 1:** [https://github.com/ReyesLawson/About-me-project]
-- **Assignment 2:** [https://github.com/ReyesLawson/Assignments.git]
-
-
+- **Assignment 2:** [https://github.com/ReyesLawson/Assignments/tree/0a463f12bfab778fbd893895ee1bd7f4d9579fce/Array]
+- **Assignment 3:** [https://github.com/ReyesLawson/Assignments/tree/0a463f12bfab778fbd893895ee1bd7f4d9579fce/Assignment_calculator]
+- **Assignment 4:** []
 
 
 
