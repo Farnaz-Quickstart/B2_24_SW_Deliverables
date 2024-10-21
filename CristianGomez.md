@@ -10,7 +10,8 @@
 ### Assignments Deliverables
 - **Assignment 1:** [https://github.com/cgomez1501/HTML_CSS.git]
 - **Assignment 2:** [https://github.com/cgomez1501/Bootstrap.git]
-
+- **Assignment 3:** [https://github.com/cgomez1501/Assignments/tree/main/Assignment_javascript_functions]
+- **Assignment 4:** [https://github.com/cgomez1501/Assignments/tree/main/Assignment_javascript_multipication]
 
 
 
