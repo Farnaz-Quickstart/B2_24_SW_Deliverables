@@ -3,7 +3,7 @@
 
 ### Projects Deliverables
 - **Project 1:** [https://github.com/ReyesLawson/Projectone.git]
-- **Project 2:** [Insert Link Here]
+- **Project 2:** [https://github.com/ReyesLawson/Projecttwo.git]
 - **Project 3:** [Insert Link Here]
 - **Project 4:** [Insert Link Here]
 

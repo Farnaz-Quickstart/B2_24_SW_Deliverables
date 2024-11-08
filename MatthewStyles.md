@@ -7,7 +7,7 @@ He is an old man and I love him very much
 
 ### Projects Deliverables
 - **Project 1:** [https://github.com/mstyles1/Project1.git]
-- **Project 2:** [Insert Link Here]
+- **Project 2:** [https://github.com/mstyles1/Project-2.git]
 - **Project 3:** [Insert Link Here]
 - **Project 4:** [Insert Link Here]
 
