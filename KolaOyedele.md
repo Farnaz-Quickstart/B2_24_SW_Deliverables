@@ -11,6 +11,7 @@
 - **Assignment 2:** [https://github.com/kolinzo1/Assignments/tree/main/Assignment1_Javascript_functions]
 - **Assignment 3:** [https://github.com/kolinzo1/Assignments/tree/main/Assinment_Javascrip_multipication]
 - **Assignment 4:** [https://github.com/kolinzo1/Assignments/tree/main/Product_List_Page]
+- **Assignment 5:** [https://github.com/kolinzo1/Assignments/tree/main/JavaScript_OOP]
 
 
 
