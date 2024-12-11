@@ -6,7 +6,7 @@
 
 - **Project 1:** [https://github.com/kaywig15/Project1]
 - **Project 2:** [https://github.com/kaywig15/Project_2]
-- **Project 3:** [Insert Link Here]
+- **Project 3:** [https://github.com/kaywig15/project_3_web_app]
 - **Project 4:** [Insert Link Here]
 
 ### Assignments Deliverables
