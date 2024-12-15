@@ -4,7 +4,7 @@
 ### Projects Deliverables
 **Project 1:** [https://github.com/MrsSeeNice/Project-1]
 **Project 2:** [https://github.com/MrsSeeNice/Project-2.git]
-**Project 3:** [Insert Link Here]
+**Project 3:** [https://github.com/MrsSeeNice/to-do.git]
 **Project 4:** [Insert Link Here]
 
 ### Assignments Deliverables
