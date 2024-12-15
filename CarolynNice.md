@@ -13,8 +13,8 @@
 **Assignment 3:** [https://github.com/MrsSeeNice/Assignments_Javascript.git]
 **Assignment 4:** [https://github.com/MrsSeeNice/Assignments_Javascript/tree/main/Product_List_Page]
 **Assignment 5:** [https://github.com/MrsSeeNice/JS_OOP.git]
-
-
+**Assignment 6:** [https://github.com/MrsSeeNice/counter.git]
+**Assignment 7:** [https://github.com/MrsSeeNice/product-component.git]
 
 
 
